@@ -1,11 +1,4 @@
-![megithub](https://user-images.githubusercontent.com/85642694/121788834-0e9bca80-cba7-11eb-92b8-2be55d53ccb1.png)
-
-
-
-
-
-
-### About me
+### About me :thought_balloon: 
 
 Hi. My name is Matheus Thomaz Braum, but you can just call me Braum. 
 
@@ -14,9 +7,14 @@ and innovation. I love to learn and I’m very dedicated, with dedication being 
 
 I'm currently improving my C++ skills and learning Java.
 
+</br>
+
+![megithub](https://user-images.githubusercontent.com/85642694/121788834-0e9bca80-cba7-11eb-92b8-2be55d53ccb1.png)
+
+
 *** 
 
-### Contact
+### Contact :iphone:
 
 - You can contact me through my academic email: m185358@dac.unicamp.br or still through my personal email: matheus_braum1@hotmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/matheus-thomaz-braum-5562b417a/)
