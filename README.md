@@ -2,7 +2,7 @@
 
 Hi. My name is Matheus Thomaz Braum, but you can just call me Braum. 
 
-I’m an 19 year old student of Information Systems at Unicamp. I always have been passionate about technology
+I’m an 21 year old student of Information Systems at Unicamp. I always have been passionate about technology
 and innovation. I love to learn and I’m very dedicated, with dedication being one of my differentials. 
 
 I'm currently improving my skills in C#, C++ and Java, as well as learning other languages.
