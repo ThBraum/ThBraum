@@ -16,7 +16,7 @@ I have always been passionate about technology and innovation. I love to learn a
 
 ### Contact :iphone:
 
-- You can contact me through my academic email: m185358@dac.unicamp.br or still through my personal email: matheus_braum1@hotmail.com
+- You can contact me through my personal email: mtbraum@gmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/matheus-thomaz-braum-5562b417a/)
 
 <!---
