@@ -17,7 +17,7 @@ I have always been passionate about technology and innovation. I love to learn a
 ### Contact :iphone:
 
 - You can contact me through my personal email: mtbraum@gmail.com
-- [LinkedIn Profile](https://www.linkedin.com/in/matheus-thomaz-braum-5562b417a/)
+- [LinkedIn Profile](https://www.linkedin.com/in/matheus-thomaz-braum/)
 
 <!---
 ThBraum/ThBraum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
