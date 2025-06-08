@@ -2,8 +2,9 @@
 
 Hi. My name is Matheus Thomaz Braum, but you can just call me Braum. 
 
-I am 23 years old, graduated in Information Systems from Unicamp, currently studying a postgraduate degree in Software Engineering. 
-I have always been passionate about technology and innovation. I love to learn and I’m very dedicated, with dedication being one of my differentials.
+I am 23 years old, graduated in Information Systems from Unicamp, and hold a postgraduate degree in Software Engineering.
+I have always been passionate about technology and innovation. I’m a fast and curious learner, constantly seeking to improve and expand my knowledge.
+One of my strongest qualities is my dedication - I always give my best in every task and stay focused on delivering high-quality results.
 
 <!-- I'm currently improving my skills in C#, C++ and Java, as well as learning other languages. -->
 
