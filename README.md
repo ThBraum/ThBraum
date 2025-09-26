@@ -6,13 +6,13 @@ I’m 23 years old, graduated in **Information Systems** from **Unicamp**, and h
 I’ve always been passionate about **technology and innovation**. I’m a fast and curious learner, constantly seeking to improve and expand my knowledge.  
 One of my strongest qualities is my **dedication** – I always give my best in every task and stay focused on delivering **high-quality results**.  
 
-</br>
+<!-- </br> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/85642694/121788834-0e9bca80-cba7-11eb-92b8-2be55d53ccb1.png" alt="megithub" width="250"/>
-</div>
+</div> -->
 
-</br>
+<!-- </br> -->
 
 <div align="center">
 
