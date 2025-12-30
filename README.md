@@ -16,6 +16,8 @@ One of my strongest qualities is my **dedication** – I always give my best in 
 
 <div align="center">
 
+<!-- </br>  ![Braum's GitHub stats](https://github-readme-stats.vercel.app/api?username=thbraum&commits_year=2025) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThBraum&layout=compact&langs_count=8&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
