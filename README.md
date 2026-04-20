@@ -2,7 +2,7 @@
 
 Hi, my name is **Matheus Thomaz Braum**, but you can just call me **Braum** 👋  
 
-I’m 23 years old, graduated in **Information Systems** from **Unicamp**, and hold a **postgraduate degree in Software Engineering**.  
+I’m 24 years old, graduated in **Information Systems** from **Unicamp**, and hold a **postgraduate degree in Software Engineering**.  
 I’ve always been passionate about **technology and innovation**. I’m a fast and curious learner, constantly seeking to improve and expand my knowledge.  
 One of my strongest qualities is my **dedication** – I always give my best in every task and stay focused on delivering **high-quality results**.  
 
